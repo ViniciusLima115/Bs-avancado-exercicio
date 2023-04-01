@@ -1,0 +1,44 @@
+.navbar-brand{
+    font-family: 'Press Start 2P', cursive;
+}
+
+.header{
+    position: sticky;
+    left: 0;
+    top: 0;
+    z-index: 2;
+}
+.navbar{
+    background-color: #a4a4bb;
+}
+
+
+#outros-titulos h2,.titulo-destaque {
+    text-align: center;
+    margin-top: 24px;
+}
+
+.titulo-destaque{
+    font-weight: bold;
+    font-family: 'Press Start 2P'
+}
+
+#outros-titulos h2{
+    padding: 14px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Press Start 2P';
+}
+
+.card-title{
+    text-align: center;
+    margin-bottom: 8px;
+    border-bottom: #333 solid 1px;
+}
+.carousel-indicators{
+    z-index: 1;
+}
+
+section {
+    padding-top: 70px;
+}
